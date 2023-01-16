@@ -1,0 +1,2 @@
+# 6Companies30Days
+"Don't let college decide your future! I'm joining #ReviseWithArsh and taking control of my goals.I'll be solving 15 medium-hard Leetcode questions every 5 days that are popularly asked by top tech companies. My goal is to cover questions from 6 different companies in the next 30 days. Join me in this journey and let's make the most of our college experience while leveling up our coding skills for future job opportunities. #collegegoals #coding #jobhunt #motivation"
