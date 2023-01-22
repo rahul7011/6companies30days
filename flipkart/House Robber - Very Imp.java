@@ -13,6 +13,7 @@
  * }
  * }
  */
+
 class Solution {
     // private static int solve(TreeNode root, int toggle, HashMap<String, Integer>
     // hm) {
@@ -37,7 +38,7 @@ class Solution {
     // return solve(root, 0, hm);
     // }
 
-    //=============Better=============================
+    // =============Better=============================
     private static int[] solve(TreeNode root) {
         if (root == null) {
             // [0]: for robbing current position
