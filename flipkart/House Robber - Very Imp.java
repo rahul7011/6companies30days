@@ -13,7 +13,6 @@
  * }
  * }
  */
-
 class Solution {
     // private static int solve(TreeNode root, int toggle, HashMap<String, Integer>
     // hm) {
@@ -38,7 +37,7 @@ class Solution {
     // return solve(root, 0, hm);
     // }
 
-    // =============Better=============================
+    //=============Better=============================
     private static int[] solve(TreeNode root) {
         if (root == null) {
             // [0]: for robbing current position
@@ -55,9 +54,3 @@ class Solution {
         check[1] = Math.max(left[0], left[1]) + Math.max(right[0], right[1]);
         return check;
     }
-
-    public int rob(TreeNode root) {
-        int[] res = solve(root);
-        return Math.max(res[0], res[1]);
-    }
-}
